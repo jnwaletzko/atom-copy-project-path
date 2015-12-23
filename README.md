@@ -1,4 +1,4 @@
-# copy-project-path package
+# simple-copy-path package
 
 Adds copy project path and full path to editor and tab menus.
 

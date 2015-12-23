@@ -1,14 +1,17 @@
 menu: [
-  label: "Packages"
+  label: "Packages",
   submenu: [
-    {
-      label: "Copy Project Path"
-      command: "copy-project-relative-path"
-    }
-    {
-      label: "Copy Full Path"
-      command: "copy-full-path"
-    }
+    label : "Simple Copy Path"
+    submenu: [
+      {
+        label: "Copy Project Path"
+        command: "copy-project-relative-path"
+      }
+      {
+        label: "Copy Full Path"
+        command: "copy-full-path"
+      }
+    ]
   ]
 ]
 "context-menu":

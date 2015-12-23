@@ -1,7 +1,7 @@
 {
   "name": "copy-project-path",
   "main": "./lib/copy-project-path.js",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "description": "Adds copy project path and full path to editor and tab menus",
   "keywords": [
     "copy"

@@ -1,7 +1,7 @@
 {
   "name": "simple-copy-path",
   "main": "./lib/simple-copy-path.js",
-  "version": "0.4.0",
+  "version": "0.5.0",
   "description": "Adds copy project path and full path to editor and tab menus",
   "keywords": [
     "copy"

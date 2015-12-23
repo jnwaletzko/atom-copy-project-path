@@ -1,0 +1,35 @@
+menu: [
+  label: "Packages"
+  submenu: [
+    {
+      label: "Copy Project Path"
+      command: "copy-project-relative-path"
+    }
+    {
+      label: "Copy Full Path"
+      command: "copy-full-path"
+    }
+  ]
+]
+"context-menu":
+  "atom-workspace": [
+    {
+      label: "Copy Project Path"
+      command: "copy-project-relative-path"
+    }
+    {
+      label: "Copy Full Path"
+      command: "copy-full-path"
+    }
+  ]
+  ".tab.copy-path": [
+    {type: 'separator'}
+    {
+      label: "Copy Project Path"
+      command: "copy-project-relative-path"
+    }
+    {
+      label: "Copy Full Path"
+      command: "copy-full-path"
+    }
+  ]

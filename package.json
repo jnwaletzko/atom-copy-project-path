@@ -1,0 +1,15 @@
+{
+  "name": "copy-project-path",
+  "main": "./lib/copy-project-path.js",
+  "version": "0.0.0",
+  "description": "A short description of your package",
+  "keywords": [
+  ],
+  "repository": "https://github.com/atom/copy-project-path",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  },
+  "dependencies": {
+  }
+}

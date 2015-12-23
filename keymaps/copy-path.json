@@ -1,0 +1,5 @@
+{
+  "atom-text-editor": {
+    "ctrl-alt-c": "copy-project-relative-path"
+  }
+}
